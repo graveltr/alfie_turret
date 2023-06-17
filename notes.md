@@ -4,3 +4,7 @@
 + calibrate the machine to hit the four corners of the rectangle
 + interpolate based on Alf's position
 + maybe can just do color matching? 
+
+# Positive Sample Prep
++ run the webcam, and have it save frames 
+
