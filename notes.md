@@ -8,3 +8,9 @@
 # Positive Sample Prep
 + run the webcam, and have it save frames 
 
+# Parts 
++ board             - Rpi 3
++ camera            - Raspberry Pi Camera
++ pump              - 
++ stepper motors    - 
+
